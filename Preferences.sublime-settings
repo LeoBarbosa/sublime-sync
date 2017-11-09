@@ -1,0 +1,24 @@
+{
+	"args":
+	{
+		"single_line": false
+	},
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"command": "reindent",
+	"font_face": "Monaco",
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"keys":
+	[
+		"alt+shift+l"
+	],
+	"line_numbers": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"theme": "Adaptive.sublime-theme"
+}

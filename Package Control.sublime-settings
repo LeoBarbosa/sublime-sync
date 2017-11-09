@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"EditorConfig",
+		"Emmet",
+		"JSX",
+		"Material Theme",
+		"Package Control",
+		"React Templates",
+		"ReactJS",
+		"Sass",
+		"Stylus",
+		"SublimeLinter-phplint",
+		"TerminalView",
+		"TodoReview",
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
